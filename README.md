@@ -16,7 +16,7 @@ This is my Capstone Project at PolyU. A web app that visualizes fundamental algo
 
 ### Check ETA
 
-This is yet another app to check bus and MTR ETA. I originally wrote this app in 2024, then rewrote it in 2026 using modern technology. Built using React, tanstack/react-router, and shadcn/ui components.
+This is yet another app to check bus and MTR ETA. I originally wrote this app in 2024, then rewrote it in 2026 using modern technology. Built using React, tanstack/react-router, shadcn/ui components, mapcn, and Lands Department Vector Map.
 
 [GitHub Repository](https://github.com/chapmankoo28/check-eta)
 
