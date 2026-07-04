@@ -2,7 +2,7 @@
 
 # Hi! I'm Chapman
 
-I am a Computer Science graduate at Hong Kong Polytechnic University.
+I am a Computer Science graduate at The Hong Kong Polytechnic University.
 
 ## Projects
 
