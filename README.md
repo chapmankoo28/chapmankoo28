@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+![Banner](images/banner.webp)
 
 # Hi! I'm Chapman
 
@@ -12,7 +12,7 @@ This is my Capstone Project. A web app that visualizes fundamental algorithms fr
 
 [https://interalgo.chapman-2cb.workers.dev/](https://interalgo.chapman-2cb.workers.dev/)
 
-![Interalgo screenshot](images/interalgo.png)
+![Interalgo screenshot](images/interalgo.webp)
 
 ### Check ETA
 
@@ -22,4 +22,4 @@ This is yet another bus ETA app. I originally wrote this app in 2024, then rewro
 
 [https://check-eta.chapman-2cb.workers.dev/](https://check-eta.chapman-2cb.workers.dev/)
 
-![Check ETA screenshot](images/check-eta.png)
+![Check ETA screenshot](images/check-eta.webp)
