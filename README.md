@@ -2,13 +2,23 @@
 
 # Hi! I'm Chapman
 
-I am a Computer Science graduate at The Hong Kong Polytechnic University.
+I am a Computer Science graduate from The Hong Kong Polytechnic University.
+
+I build web and mobile applications with TypeScript, React, Next.js, and Expo.
 
 ## Projects
 
 ### Interalgo
 
-This is my Capstone Project at PolyU. A web app that visualizes fundamental algorithms from the COMP3011 course. Built using Astro, React, tldraw, and shadcn/ui components.
+This is my Capstone Project at PolyU. 
+
+An interactive web application that visualizes fundamental algorithms from the COMP3011 course and lets students explore how they work step by step.
+
+It covers Selection Sort, Merge Sort, Dijkstra’s, Prim’s, Kruskal’s, Bellman-Ford, Knapsack, and Longest Common Subsequence.
+
+Users can select an algorithm, provide inputs, and follow its execution visually.
+
+Built using Astro, React, tldraw, and shadcn/ui components.
 
 [Try it at https://interalgo.chapman-2cb.workers.dev/](https://interalgo.chapman-2cb.workers.dev/)
 
@@ -16,7 +26,13 @@ This is my Capstone Project at PolyU. A web app that visualizes fundamental algo
 
 ### Check ETA
 
-This is yet another app to check bus and MTR ETA. I originally wrote this app in 2024, then rewrote it in 2026 using modern technology. Built using React, tanstack/react-router, shadcn/ui components, mapcn, and Lands Department Vector Map.
+This is yet another app to check real-time bus and MTR arrival times.
+
+Features include route search, real-time arrival information, map-based stop discovery, and responsive mobile layouts.
+
+Originally built in 2024 and rebuilt in 2026 with a modern React stack.
+
+Built using React, TanStack Router, shadcn/ui, MapCN, and Lands Department Vector Map.
 
 [GitHub Repository](https://github.com/chapmankoo28/check-eta)
 
