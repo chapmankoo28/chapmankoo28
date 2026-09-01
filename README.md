@@ -6,6 +6,10 @@ I am a Computer Science graduate from The Hong Kong Polytechnic University.
 
 I build web and mobile applications with TypeScript, React, Next.js, and Expo.
 
+## Certifications
+
+<a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate" width="150"></a>
+
 ## Projects
 
 ### Interalgo
