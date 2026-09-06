@@ -8,13 +8,14 @@ I build web and mobile applications with TypeScript, React, Next.js, and Expo.
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate" width="150"></a>
+<a href="https://www.credly.com/badges/f4baf411-f49b-496c-8893-8f62299489a0/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-specialist.png" alt="App Developer for Claris FileMaker Pro Specialist" ></a>
+<a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate"></a>
 
 ## Projects
 
 ### Interalgo
 
-This is my Capstone Project at PolyU. 
+This is my Capstone Project at PolyU.
 
 An interactive web application that visualizes fundamental algorithms from the COMP3011 course and lets students explore how they work step by step.
 
