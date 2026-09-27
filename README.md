@@ -8,6 +8,7 @@ I build web and mobile applications with TypeScript, React, Next.js, and Expo.
 
 ## Certifications
 
+<a href="https://www.credly.com/badges/f00f9a69-1d2b-4257-937d-e511377d7a38/public_url"><img width="150" src="images\app-developer-for-claris-filemaker-pro-expert.png" alt="App Developer for Claris FileMaker Pro Expert"></a>
 <a href="https://www.credly.com/badges/f4baf411-f49b-496c-8893-8f62299489a0/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-specialist.png" alt="App Developer for Claris FileMaker Pro Specialist" ></a>
 <a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate"></a>
 
