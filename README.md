@@ -42,6 +42,6 @@ Built using React, TanStack Router, shadcn/ui, MapCN, and Lands Department Vecto
 
 [GitHub Repository](https://github.com/chapmankoo28/check-eta)
 
-[Try it at https://check-eta.chapmankoo.com](https://check-eta.chapmankoo.com)
+[Try it at https://checketa.chapmankoo.com](https://checketa.chapmankoo.com)
 
 ![Check ETA screenshot](images/check-eta.webp)
