@@ -8,9 +8,9 @@ I build web and mobile applications with TypeScript, React, Next.js, and Expo.
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/f00f9a69-1d2b-4257-937d-e511377d7a38/public_url"><img width="150" src="images\app-developer-for-claris-filemaker-pro-expert.png" alt="App Developer for Claris FileMaker Pro Expert"></a>
-<a href="https://www.credly.com/badges/f4baf411-f49b-496c-8893-8f62299489a0/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-specialist.png" alt="App Developer for Claris FileMaker Pro Specialist" ></a>
-<a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img width="150" src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate"></a>
+<a href="https://www.credly.com/badges/f00f9a69-1d2b-4257-937d-e511377d7a38/public_url"><img width="100" src="images\app-developer-for-claris-filemaker-pro-expert.png" alt="App Developer for Claris FileMaker Pro Expert"></a>
+<a href="https://www.credly.com/badges/f4baf411-f49b-496c-8893-8f62299489a0/public_url"><img width="100" src="images/app-developer-for-claris-filemaker-pro-specialist.png" alt="App Developer for Claris FileMaker Pro Specialist" ></a>
+<a href="https://www.credly.com/badges/a4c5b653-d978-4efc-ab82-99107fa6fa72/public_url"><img width="100" src="images/app-developer-for-claris-filemaker-pro-associate.png" alt="App Developer for Claris FileMaker Pro Associate"></a>
 
 ## Projects
 
@@ -26,7 +26,7 @@ Users can select an algorithm, provide inputs, and follow its execution visually
 
 Built using Astro, React, tldraw, and shadcn/ui components.
 
-[Try it at https://interalgo.chapman-2cb.workers.dev/](https://interalgo.chapman-2cb.workers.dev/)
+[Try it at https://interalgo.chapmankoo.com/](https://interalgo.chapmankoo.com/)
 
 ![Interalgo screenshot](images/interalgo.webp)
 
@@ -42,6 +42,6 @@ Built using React, TanStack Router, shadcn/ui, MapCN, and Lands Department Vecto
 
 [GitHub Repository](https://github.com/chapmankoo28/check-eta)
 
-[Try it at https://check-eta.chapman-2cb.workers.dev/](https://check-eta.chapman-2cb.workers.dev/)
+[Try it at https://check-eta.chapmankoo.com](https://check-eta.chapmankoo.com)
 
 ![Check ETA screenshot](images/check-eta.webp)
